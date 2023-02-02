@@ -8,5 +8,4 @@
 - `GildedRoseADefaultItemTest.java`
 - `GildedRoseBAgedBrieTest.java`
 - `GildedRoseCBackstagePassesTest.java`
-- More details - [Gilded Rose Exercises](https://github.com/in28minutes/clean-code/blob/master/GildedRoseProblemStatement.md)
-
+- More details - [Gilded Rose Exercises]
